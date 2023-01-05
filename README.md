@@ -71,7 +71,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-Getting started
+## Getting started
 Installation
 Please check the official laravel installation guide for server requirements before you start. Official Documentation
 
@@ -79,7 +79,7 @@ Alternative installation is possible without local dependencies relying on Docke
 
 Clone the repository
 
-git clone https://github.com/loisagaston/conect-app.git
+git clone https://github.com/loisagaston/Conect-Apps.git
 Switch to the repo folder
 
 cd conect-app
